@@ -7,7 +7,6 @@ class Solution:
             bin_cov.append(str(remainder))
             n //= 2
             count=count+remainder 
-        x="".join(bin_cov[::-1])
         return count
         
         
