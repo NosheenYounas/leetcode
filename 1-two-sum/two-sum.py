@@ -8,4 +8,3 @@ class Solution:
             indexmap[n]=i
         return 
         
-        
