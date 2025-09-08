@@ -16,5 +16,3 @@ class Solution:
                 nextDP.add(t)
             dp = nextDP
         return False
-
-        
