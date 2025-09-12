@@ -1,12 +1,20 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        k=""
-        for i in range(len(digits)):
-            k=k+str(digits[i])
-        g=int(k)
-        g=g+1
-        h=str(g)
-        f=[]
-        for char in h:
-            f.append(int(char))
-        return f
+        digits = digits[::-1]
+        one, i = 1, 0
+        while one:
+            if i < len(digits):
+                if  digits[i]==9:
+                    digits[i]=0
+                else:
+                    digits[i]+=1
+                    one=0
+            else:
+                digits.append(1)
+                one=0
+            i+=1
+        return digits[::-1]
+            
+
+
+        
