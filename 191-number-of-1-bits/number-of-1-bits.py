@@ -1,12 +1,8 @@
 class Solution:
     def hammingWeight(self, n: int) -> int:
-        bin_cov=[]
-        count=0
-        while n > 0:
-            remainder = n % 2
-            bin_cov.append(str(remainder))
-            n //= 2
-            count=count+remainder 
-        return count
-        
+        res=0
+        while n:
+            n = n & (n-1)
+            res += 1
+        return res
         
