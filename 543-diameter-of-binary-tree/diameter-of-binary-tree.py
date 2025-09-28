@@ -17,4 +17,10 @@ class Solution:
             return 1+max(left,right)
         dfs(root)
         return self.res
+        #Time complexity: O(n)
+        #Space complexity: O(h)
+        #Best Case (balanced tree): O(log(n))
+        #Worst Case (degenerate tree): O(n)
+
+
             
