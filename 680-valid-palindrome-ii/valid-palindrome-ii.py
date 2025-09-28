@@ -7,3 +7,5 @@ class Solution:
                 return (SkipL == SkipL[::-1] or SkipR ==SkipR[::-1] )
             l,r = l+1 ,r-1
         return True
+        #Time complexity: O(n)
+        #Space complexity: O(1)
