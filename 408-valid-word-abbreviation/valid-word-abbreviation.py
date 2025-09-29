@@ -9,7 +9,7 @@ class Solution:
 
             if word[i] == abbr[j]:
                 i, j = i + 1, j + 1
-            elif abbr[j].isalpha():
+            elif abbr[j].isalpha() or abbr[j]==0:
                 return False
             else:
                 subLen = 0
@@ -19,3 +19,5 @@ class Solution:
                 i += subLen
 
         return i == n and j == m   
+    #Time complexity: O(n+m)
+    #Space complexity: O(1)
