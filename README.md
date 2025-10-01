@@ -9,4 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/NosheenYounas/leetcode/tree/master/0792-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+## Tree
+|  |
+| ------- |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+## Binary Tree
+|  |
+| ------- |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 <!---LeetCode Topics End-->
