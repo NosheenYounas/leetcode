@@ -15,6 +15,6 @@ class Solution:
         while q_copy != p_copy:
             q_copy = q_copy.parent if q_copy else p
             p_copy = p_copy.parent if p_copy else q
-        return p_copy
+        return q_copy
 
     
