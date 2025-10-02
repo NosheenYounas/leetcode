@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/NosheenYounas/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/NosheenYounas/leetcode/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0560-subarray-sum-equals-k](https://github.com/NosheenYounas/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Two Pointers
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/NosheenYounas/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
