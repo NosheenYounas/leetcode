@@ -6,30 +6,35 @@
 #         self.right = right
 class Solution:
     def verticalTraversal(self, root: Optional[TreeNode]) -> List[List[int]]:
-        node_list = []
-        def BFS(root):
-            q = deque([(root, 0, 0)])
-            while q:
-                node, row, column = q.popleft()
-                if node is not None:
-                    node_list.append((column, row, node.val))
-                    if node.left:
-                        q.append((node.left, row + 1, column - 1))
-                    if node.right:
-                        q.append((node.right, row + 1, column + 1))
+        if root is None:
+            return []
+        columnTable = defaultdict(list)
+        min_column = max_column = 0
 
-        # step 1). construct the global node list, with the coordinates
+        def BFS(root):
+            nonlocal min_column, max_column
+            queue = deque([(root, 0, 0)])
+
+            while queue:
+                node, row, column = queue.popleft()
+
+                if node is not None:
+                    columnTable[column].append((row, node.val))
+                    min_column = min(min_column, column)
+                    max_column = max(max_column, column)
+
+
+                    if node.left:
+                        queue.append((node.left, row + 1, column - 1))
+                    if node.right:
+                        queue.append((node.right, row + 1, column + 1))
+
+        # step 1). BFS traversal
         BFS(root)
 
-        # step 2). sort the global node list, according to the coordinates
-        node_list.sort()
-
-        # step 3). retrieve the sorted results partitioned by the column index
-        ret = OrderedDict()
-        for column, row, value in node_list:
-            if column in ret:
-                ret[column].append(value)
-            else:
-                ret[column] = [value]
-
-        return list(ret.values())
+        # step 2). extract the values from the columnTable
+        ret = []
+        for col in range(min_column, max_column + 1):
+            # sort first by 'row', then by 'value', in ascending order
+            ret.append([val for row, val in sorted(columnTable[col])])
+        return ret
