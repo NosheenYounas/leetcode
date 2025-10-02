@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/NosheenYounas/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/NosheenYounas/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Tree
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/NosheenYounas/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/NosheenYounas/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Depth-First Search
 |  |
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/NosheenYounas/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/NosheenYounas/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -46,8 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
