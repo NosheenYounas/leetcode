@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Two Pointers
 |  |
@@ -21,21 +22,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NosheenYounas/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/NosheenYounas/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NosheenYounas/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/NosheenYounas/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NosheenYounas/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/NosheenYounas/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/NosheenYounas/leetcode/tree/master/0975-range-sum-of-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 <!---LeetCode Topics End-->
