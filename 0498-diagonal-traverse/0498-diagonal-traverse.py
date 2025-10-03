@@ -30,6 +30,8 @@ class Solution:
                     cur_col +=1
                 going_up = True
         return res
+    #T: O(N)
+    #S :O(N) if counting result as space otherwise O(1)
 
 
 
