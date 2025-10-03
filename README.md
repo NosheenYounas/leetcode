@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/NosheenYounas/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0807-custom-sort-string](https://github.com/NosheenYounas/leetcode/tree/master/0807-custom-sort-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Two Pointers
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0807-custom-sort-string](https://github.com/NosheenYounas/leetcode/tree/master/0807-custom-sort-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Prefix Sum
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/NosheenYounas/leetcode/tree/master/0498-diagonal-traverse) |
+## String
+|  |
+| ------- |
+| [0807-custom-sort-string](https://github.com/NosheenYounas/leetcode/tree/master/0807-custom-sort-string) |
 <!---LeetCode Topics End-->
