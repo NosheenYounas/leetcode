@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/NosheenYounas/leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/NosheenYounas/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/NosheenYounas/leetcode/tree/master/0792-binary-search) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/NosheenYounas/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NosheenYounas/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/NosheenYounas/leetcode/tree/master/0807-custom-sort-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/NosheenYounas/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/NosheenYounas/leetcode/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/NosheenYounas/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/NosheenYounas/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Tree
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/NosheenYounas/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/NosheenYounas/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 <!---LeetCode Topics End-->
