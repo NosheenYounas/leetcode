@@ -3,18 +3,21 @@ class Solution:
         res = []
         cnt = 0
         for c in s:
-            if c == "(":
+            if c =="(":
                 res.append(c)
-                cnt += 1
-            elif c== ")" and cnt > 0:
+                cnt +=1
+            elif c == ")" and cnt > 0:
                 res.append(c)
                 cnt -= 1
             elif c != ")":
                 res.append(c)
         filtered = []
         for c in res[::-1]:
-            if c == "(" and cnt > 0:
+            if c == "(" and cnt >0:
                 cnt -= 1
             else:
                 filtered.append(c)
-        return "".join(filtered[::-1]) 
+        return "".join(filtered[::-1])
+        #T O(N)
+        #S O(N)
+                
