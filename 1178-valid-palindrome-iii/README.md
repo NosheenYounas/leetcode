@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/valid-palindrome-iii">1178. Valid Palindrome III</a></h2><h3>Hard</h3><hr><p>Given a string <code>s</code> and an integer <code>k</code>, return <code>true</code> if <code>s</code> is a <code>k</code><strong>-palindrome</strong>.</p>
+<h2><a href="https://leetcode.com/problems/valid-palindrome-iii">Valid Palindrome III</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>Given a string <code>s</code> and an integer <code>k</code>, return <code>true</code> if <code>s</code> is a <code>k</code><strong>-palindrome</strong>.</p>
 
 <p>A string is <code>k</code><strong>-palindrome</strong> if it can be transformed into a palindrome by removing at most <code>k</code> characters from it.</p>
 
