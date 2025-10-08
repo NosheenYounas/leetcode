@@ -31,3 +31,5 @@ class Solution:
             i += 1
             j -= 1
         return True
+#T  O(n) * O(n)
+#S O(n)* O(n)
