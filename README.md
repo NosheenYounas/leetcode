@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NosheenYounas/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NosheenYounas/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/NosheenYounas/leetcode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NosheenYounas/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/NosheenYounas/leetcode/tree/master/0162-find-peak-element) |
 | [0498-diagonal-traverse](https://github.com/NosheenYounas/leetcode/tree/master/0498-diagonal-traverse) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NosheenYounas/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/NosheenYounas/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/NosheenYounas/leetcode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NosheenYounas/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1178-valid-palindrome-iii](https://github.com/NosheenYounas/leetcode/tree/master/1178-valid-palindrome-iii) |
 ## Design
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NosheenYounas/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/NosheenYounas/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
