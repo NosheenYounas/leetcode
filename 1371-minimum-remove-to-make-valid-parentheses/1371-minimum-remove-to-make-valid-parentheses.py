@@ -1,23 +1,25 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        res = []
         cnt = 0
+        res = []
         for c in s:
-            if c =="(":
-                res.append(c)
+            if c == "(":
                 cnt +=1
-            elif c == ")" and cnt > 0:
                 res.append(c)
+            elif c == ")" and cnt>0:
                 cnt -= 1
+                res.append(c)
             elif c != ")":
                 res.append(c)
-        filtered = []
+        filtered =[]
         for c in res[::-1]:
-            if c == "(" and cnt >0:
-                cnt -= 1
+            if cnt>0 and c== "(":
+                cnt -=1
             else:
                 filtered.append(c)
         return "".join(filtered[::-1])
-        #T O(N)
-        #S O(N)
+
+
+                
+
                 
