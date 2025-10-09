@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NosheenYounas/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NosheenYounas/leetcode/tree/master/0035-search-insert-position) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NosheenYounas/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/NosheenYounas/leetcode/tree/master/0162-find-peak-element) |
 | [0498-diagonal-traverse](https://github.com/NosheenYounas/leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/NosheenYounas/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/NosheenYounas/leetcode/tree/master/0792-binary-search) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NosheenYounas/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NosheenYounas/leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/NosheenYounas/leetcode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/NosheenYounas/leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
