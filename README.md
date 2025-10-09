@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/NosheenYounas/leetcode/tree/master/0125-valid-palindrome) |
+| [0408-valid-word-abbreviation](https://github.com/NosheenYounas/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/NosheenYounas/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/NosheenYounas/leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/NosheenYounas/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NosheenYounas/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NosheenYounas/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/NosheenYounas/leetcode/tree/master/0125-valid-palindrome) |
+| [0408-valid-word-abbreviation](https://github.com/NosheenYounas/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/NosheenYounas/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/NosheenYounas/leetcode/tree/master/0807-custom-sort-string) |
 | [1178-valid-palindrome-iii](https://github.com/NosheenYounas/leetcode/tree/master/1178-valid-palindrome-iii) |
