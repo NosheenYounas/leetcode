@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/NosheenYounas/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/NosheenYounas/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0339-nested-list-weight-sum](https://github.com/NosheenYounas/leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/NosheenYounas/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/NosheenYounas/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/NosheenYounas/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0339-nested-list-weight-sum](https://github.com/NosheenYounas/leetcode/tree/master/0339-nested-list-weight-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NosheenYounas/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
