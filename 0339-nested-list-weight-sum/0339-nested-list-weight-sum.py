@@ -48,15 +48,17 @@ class Solution:
         res = 0
         dep = 1
         q = deque(nestedList)
-        while q:
+        while q: 
             for i in range(len(q)):
                 cur = q.popleft()
                 if cur.isInteger():
                     res += cur.getInteger()*dep
                 else:
                     q.extend(cur.getList())
-            dep+=1
+            dep += 1
         return res
+        
+
     
 
              
