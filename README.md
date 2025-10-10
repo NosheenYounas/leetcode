@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/NosheenYounas/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/NosheenYounas/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NosheenYounas/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/NosheenYounas/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/NosheenYounas/leetcode/tree/master/0125-valid-palindrome) |
 | [0408-valid-word-abbreviation](https://github.com/NosheenYounas/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/NosheenYounas/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NosheenYounas/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NosheenYounas/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/NosheenYounas/leetcode/tree/master/0071-simplify-path) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NosheenYounas/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
