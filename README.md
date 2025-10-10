@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NosheenYounas/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0670-maximum-swap](https://github.com/NosheenYounas/leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/NosheenYounas/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NosheenYounas/leetcode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/NosheenYounas/leetcode/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
