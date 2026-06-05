@@ -1,11 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         mapp = {}
-        for a,b in  enumerate(nums):
-            diff = target - b
+        for i,n in enumerate(nums):
+            diff = target - n
             if diff in mapp:
-                return [mapp[diff],a]
-
-            else:
-                mapp[b]= a
+                return [mapp[diff],i]
+            mapp[n]=i
         
