@@ -1,17 +1,19 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        MIN = -2147483648  # -2^31,
-        MAX = 2147483647  #  2^31 - 1
+        if x <0 :
+            sign  = -1
+        else:
+            sign = 1
+        rev_no = 0
+        x = abs(x)
+        while x!=0 :
+            digit = x% 10 
+            x = x//10
+            rev_no = rev_no*10 +digit
+        rev_no = sign * rev_no
+        if rev_no < -2**31 or rev_no > 2**31:
+            return 0
+        else:
+            return rev_no
 
-        res = 0
-        while x:
-            digit = int(math.fmod(x, 10))
-            x = int(x / 10)
-
-            if res > MAX // 10 or (res == MAX // 10 and digit > MAX % 10):
-                return 0
-            if res < MIN // 10 or (res == MIN // 10 and digit < MIN % 10):
-                return 0
-            res = (res * 10) + digit
-
-        return res
+        
