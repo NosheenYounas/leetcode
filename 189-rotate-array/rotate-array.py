@@ -4,7 +4,21 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n = len(nums)
-        k %= n                          # handle k >= n
-        nums.reverse()                  # whole array
-        nums[:k] = reversed(nums[:k])   # first k
-        nums[k:] = reversed(nums[k:]) 
+        k = k%n
+        l , r = 0 , n-1
+        while l  < r :
+            nums[l] , nums[r] = nums[r], nums[l]
+            l += 1
+            r -= 1
+        l, r = 0 , k-1
+        while l < r:
+            nums[l] , nums[r] = nums[r] , nums[l]
+            l += 1
+            r -= 1
+        l,r = k, n-1
+        while l < r:
+            nums[l], nums[r] = nums[r] , nums[l]
+            l += 1
+            r -= 1
+
+
