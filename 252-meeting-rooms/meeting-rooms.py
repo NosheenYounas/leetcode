@@ -6,7 +6,7 @@ class Solution:
             curr_start = intervals[i][0]
 
             # Overlap found
-            if curr_start < prev_end:
+            if prev_end > curr_start:
                 return False
         return True
 
