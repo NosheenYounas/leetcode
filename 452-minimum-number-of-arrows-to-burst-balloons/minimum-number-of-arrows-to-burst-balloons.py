@@ -1,14 +1,14 @@
 class Solution:
-    def findMinArrowShots(self, points: List[List[int]]) -> int: 
-        points.sort()
-        prev = points[0]
-        res = len(points)
-
-        for i in range(1, len(points)):
-            curr = points[i]
-            if curr[0] <= prev[1]:   
-                res -= 1
-                prev = [curr[0], min(curr[1], prev[1])]   
+    def findMinArrowShots(self, intervals: List[List[int]]) -> int: 
+        intervals.sort()
+        prev = intervals[0]
+        res = len(intervals)
+        for i in range(1,len(intervals)):
+            curr = intervals[i]
+            if curr[0] > prev[1]:
+                prev = curr
             else:
-                prev = curr  
+                res -= 1
+                prev = [curr[0], min(curr[1], prev[1])]
         return res
+       
