@@ -1,11 +1,8 @@
 class Solution:
-    def transpose(self, A: List[List[int]]) -> List[List[int]]:
-        res = []
-        for i in range(len(A[0])):
-            temp = []
-            for j in range(len(A)):
-                temp.append(A[j][i])
-            res.append(temp)
+    def transpose(self, matrix: List[List[int]]) -> List[List[int]]:
+        rows, cols = len(matrix) , len(matrix[0])
+        res = [[0]*rows for _ in range(cols)]   
+        for r in range(rows):
+            for c in range(cols):
+                res[c][r] = matrix[r][c]     
         return res
-
-        
