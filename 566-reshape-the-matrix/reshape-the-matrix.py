@@ -1,20 +1,16 @@
 class Solution:
-    def matrixReshape(self, mat: List[List[int]], r: int, c: int) -> List[List[int]]:
-        col=len(mat[0])
-        row=len(mat)
-        temp=[]
-        result=[]
-
-        if row*col!=r*c:
-            return mat
-        for i in range(row):
-            for j in range(col):
-                temp.append(mat[i][j])
-        x=0
-        for i in range(r):
-            lil=[]
-            for j in range(c):
-                lil.append(temp[x])
-                x+=1  
-            result.append(lil)  
-        return result 
+    def matrixReshape(self, nums: List[List[int]], r: int, c: int) -> List[List[int]]:
+        res = [[0] * c for _ in range(r)]
+        if len(nums) == 0 or r * c != len(nums) * len(nums[0]):
+            return nums
+        
+        rows, cols = 0, 0
+        for i in range(len(nums)):
+            for j in range(len(nums[0])):
+                res[rows][cols] = nums[i][j]
+                cols += 1
+                if cols == c:
+                    rows += 1
+                    cols = 0
+        
+        return res
