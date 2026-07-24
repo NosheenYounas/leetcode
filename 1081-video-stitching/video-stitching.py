@@ -1,11 +1,18 @@
 class Solution:
     def videoStitching(self, clips: List[List[int]], T: int) -> int:
-        end, end2, res = -1, 0, 0
-        for i, j in sorted(clips):
-            if end2 >= T or i > end2:
-                break
-            elif end < i <= end2:
-                res, end = res + 1, end2
-            end2 = max(end2, j)
-        return res if end2 >= T else -1
+        clips.sort()
+        current_end = 0 
+        count = 0 
+        i = 0 
+        n = len(clips)
+        while current_end < T:
+            farthest = current_end
+            while i < n and clips[i][0] <= current_end:
+                farthest = max(farthest, clips[i][1])
+                i+=1
+            if farthest == current_end:
+                return -1
+            count += 1
+            current_end = farthest
+        return count
         
