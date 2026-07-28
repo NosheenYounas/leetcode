@@ -1,14 +1,18 @@
 class Solution:
-    def shiftGrid(self, matrix: List[List[int]], k: int) -> List[List[int]]:
-        M , N = len(matrix) , len(matrix[0]) 
-        def postToval(r,c):
-            return r*N+c
-        def valTopos(v):
-            return [v//N, v%N]
-        res = [[0]*N for i in range(M)] 
-        for r in range(M):
-            for c in range(N):
-                newVal = (postToval(r,c)+k) % (M*N)
-                newR , newC = valTopos(newVal)
-                res[newR][newC] = matrix[r][c]
-        return res 
+    def shiftGrid(self, grid: List[List[int]], k: int) -> List[List[int]]:
+        num_rows, num_cols = len(grid), len(grid[0])
+        for _ in range(k):
+
+            previous = grid[-1][-1]
+            for row in range(num_rows):
+                for col in range(num_cols):
+                    temp = grid[row][col]
+                    grid[row][col] = previous
+                    previous = temp
+        return grid
+    
+
+        
+
+
+
