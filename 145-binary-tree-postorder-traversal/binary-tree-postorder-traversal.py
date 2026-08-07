@@ -6,38 +6,20 @@
 #         self.right = right
 class Solution:
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        result = []
+        if not root:
+            return []
+        
+        st1 = [root]
+        res = []
 
-        # If the root is null, return an empty list
-        if root is None:
-            return result
+        while st1:
+            node = st1.pop()
+            res.append(node.val)
 
-        # Stack to manage the traversal
-        main_stack = []
-        # Stack to manage the path
-        path_stack = []
-
-        # Start with the root node
-        main_stack.append(root)
-
-        # Process nodes until the main stack is empty
-        while main_stack:
-            root = main_stack[-1]
-
-            # If the node is in the path stack and it's the top, add its value
-            if path_stack and path_stack[-1] == root:
-                result.append(root.val)
-                main_stack.pop()
-                path_stack.pop()
-            else:
-                # Push the current node to the path stack
-                path_stack.append(root)
-                # Push right child if it exists
-                if root.right is not None:
-                    main_stack.append(root.right)
-                # Push left child if it exists
-                if root.left is not None:
-                    main_stack.append(root.left)
-
-        return result
+            if node.left:
+                st1.append(node.left)
+            if node.right:
+                st1.append(node.right)
+        
+        return res[::-1]
         
