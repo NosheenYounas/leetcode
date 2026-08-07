@@ -11,3 +11,5 @@ class Solution:
         l_dep = self.maxDepth(root.left)
         r_dep = self.maxDepth(root.right)
         return 1 + max(l_dep,r_dep)
+
+        
